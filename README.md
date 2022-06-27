@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techzalak
 - 👀 I’m interested in building projects.
 - 🌱 I’m currently learning data structure and algorithms and many other new skills
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Enthusiastic and passionate about working on projects and problem solving.
 - 📫 How to reach me zalakgandhi20@gmail.com
 
 <!---
